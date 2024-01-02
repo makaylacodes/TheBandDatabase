@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Queen</item>
+        <item>Pink Floyd</item>
+        <item>Led Zeppelin</item>
+        <item>The Rolling Stones</item>
+        <item>Radiohead</item>
+        <item>The Eagles</item>
+        <item>Fleetwood Mac</item>
+        <item>Metallica</item>
+        <item>Coldplay</item>
+        <item>AC\/DC</item>
+        <item>Pearl Jam</item>
+        <item>The Police</item>
+        <item>Journey</item>
+        <item>Green Day</item>
+        <item>The Killers</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>Led by Freddie Mercury, Queen is a legendary rock band known for their anthemic stadium rock, genre-defying creativity, and operatic masterpieces.</item>
+        <item>Renowned for their progressive and psychedelic rock, Pink Floyd\'s conceptual albums and immersive live performances set a standard for musical innovation and storytelling.</item>
+        <item>With their powerful blend of blues, rock, and folk influences, Led Zeppelin is a trailblazing band that defined hard rock and heavy metal in the 1970s.</item>
+        <item>Often dubbed "The World's Greatest Rock and Roll Band," The Rolling Stones have been shaping the rock landscape for decades with their gritty sound and rebellious spirit.</item>
+        <item>Pushing the boundaries of alternative rock, Radiohead is celebrated for their experimental sound, thought-provoking lyrics, and constant evolution.</item>
+        <item>Masters of harmony and country-rock, The Eagles are known for their impeccable musicianship and timeless hits that have become classics in the rock canon.</item>
+        <item>From blues roots to pop-rock stardom, Fleetwood Mac\'s ever-evolving lineup led to a musical journey filled with intricate harmonies and emotional storytelling.</item>
+        <item>Pioneers of thrash metal, Metallica is a powerhouse known for their aggressive sound, technical prowess, and chart-topping albums that define heavy metal.</item>
+        <item>With their melodic and emotionally charged alternative rock, Coldplay has become a global sensation, crafting stadium-filling anthems that resonate with a broad audience.</item>
+        <item> Iconic for their electrifying hard rock and timeless riffs, AC/DC has maintained their status as one of the greatest rock bands with a career spanning over four decades.</item>
+        <item>Emerging from the grunge movement, Pearl Jam is known for their raw, emotional performances and socially conscious lyrics that resonate with a generation.</item>
+        <item>Sting\'s distinctive voice and The Police\'s blend of rock, reggae, and new wave resulted in a string of hits during the late \'70s and early \'80s.</item>
+        <item>A classic rock staple, Journey is known for their arena-rock sound, power ballads, and the enduring appeal of hits like \"Don\'t Stop Believin\'."</item>
+        <item>Leading the punk-pop revival in the \'90s, Green Day\'s catchy and politically charged anthems catapulted them to mainstream success.</item>
+        <item>With a blend of indie rock and new wave influences, The Killers are known for their catchy hooks and anthemic songs that resonate with a broad audience.</item>
+    </string-array>
 </resources>
